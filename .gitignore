@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+djangot
+db.sqlite3
+/static
+.DB_Store
